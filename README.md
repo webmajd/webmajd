@@ -5,9 +5,11 @@
 ###
 
 <div align="center">
-  <img src="#" height="25" alt="linkedin logo"  />
-  <img src="#" height="25" alt="youtube logo"  />
-  <img src="#" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </div>
 
 ###
@@ -26,7 +28,14 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+  I'm Mohsen Mozafari Majd from Iran 🇮🇷<br><br>
+  - 🔭 I’m working as a freelance WordPress developer, SEO strategist, and founder of smart digital projects<br>
+  - ⚙️ I’m currently building <strong>AI-powered automation tools</strong> for content strategy, SEO, and online businesses<br>
+  - 📚 I'm currently learning <strong>AI integration in web platforms</strong>, and scaling automated marketing systems<br>
+  - ⚡ In my free time, I explore new tech trends, mentor junior developers, and brainstorm startup ideas with potential impact
+</p>
+
 
 ###
 
@@ -65,7 +74,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=webmaj&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=webmajd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###

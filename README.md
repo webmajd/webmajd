@@ -20,13 +20,11 @@
 
 ###
 
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak‑stats.demolab.com?user=webmajd&theme=dark&hide_border=false">
     <source media="(prefers-color-scheme: light)" srcset="https://streak‑stats.demolab.com?user=webmajd&theme=default&hide_border=false">
     <img src="https://streak‑stats.demolab.com?user=webmajd&theme=default&hide_border=false" height="220" alt="Streak Graph" />
   </picture>
-</p>
 
 ###
 

@@ -86,7 +86,6 @@
 ###
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/webmajd/webmajd/output/pacman-contribution-graph-dark.svg" media="(prefers-color-scheme: dark)">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/webmajd/webmajd/output/pacman-contribution-graph.svg">
 </picture>
 

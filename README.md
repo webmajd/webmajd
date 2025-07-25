@@ -21,10 +21,12 @@
 ###
 
 <div align="center">
-<picture>
-  <img src="https://streak-stats.demolab.com?user=webmajd&theme=dark&hide_border=false#gh-dark-mode-only" height="220" />
-  <img src="https://streak-stats.demolab.com?user=webmajd&theme=default&hide_border=false#gh-light-mode-only" height="220" />
-</picture>
+<!-- Streak Graph (Dark mode) -->
+<img src="https://streak-stats.demolab.com?user=webmajd&theme=dark&hide_border=false#gh-dark-mode-only" height="220" alt="Streak dark" />
+
+<!-- Streak Graph (Light mode) -->
+<img src="https://streak-stats.demolab.com?user=webmajd&theme=default&hide_border=false#gh-light-mode-only" height="220" alt="Streak light" />
+
 </div>
 
 ###

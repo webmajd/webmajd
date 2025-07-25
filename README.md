@@ -21,8 +21,8 @@
 ###
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=webmajd&theme=dark&hide_border=false" height="220" alt="Streak Graph Dark" data-darkreader-inline-bgimage data-darkreader-inline-bgcolor id="gh-dark-mode-only" />
-  <img src="https://streak-stats.demolab.com?user=webmajd&theme=default&hide_border=false" height="220" alt="Streak Graph Light" id="gh-light-mode-only" />
+  <img src="https://streak-stats.demolab.com?user=webmajd&theme=dark&hide_border=false#gh-dark-mode-only" height="220" alt="Streak Graph Dark" />
+  <img src="https://streak-stats.demolab.com?user=webmajd&theme=default&hide_border=false#gh-light-mode-only" height="220" alt="Streak Graph Light" />
 </p>
 
 ###

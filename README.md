@@ -85,12 +85,10 @@
 
 ###
 
-<br clear="both">
-
 <picture>
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/webmajd/webmajd/output/pacman-contribution-graph.svg#gh-dark-mode-only">
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/webmajd/webmajd/output/pacman-contribution-graph-dark.svg#gh-light-mode-only">
-
+  <source srcset="https://raw.githubusercontent.com/webmajd/webmajd/output/pacman-contribution-graph-dark.svg" media="(prefers-color-scheme: dark)">
+  <source srcset="https://raw.githubusercontent.com/webmajd/webmajd/output/pacman-contribution-graph.svg" media="(prefers-color-scheme: light)">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/webmajd/webmajd/output/pacman-contribution-graph.svg">
 </picture>
 
 ###

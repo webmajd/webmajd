@@ -1,57 +1,27 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">  My name is Mohsen Mozafari Majd
+==============================
 
-###
+* 🌍  I'm based in Iran , Qom
+* 🖥️  I'm a freelance **WordPress developer**, **SEO strategist**, and founder of smart digital projects  
+* ⚙️  Currently building **AI-powered automation tools** for content strategy, SEO, and online businesses  
+* 📚  Learning more about **AI integration in web platforms** and automated marketing systems  
+* ✉️  You can contact me at [webmajdcom@gmail.com](mailto:webmajdcom@gmail.com)  
+* 🤝  Open to collaborating on **WordPress, SEO, and automation projects**
 
-<div align="center">
-   <img src="https://visitor-badge.laobi.icu/badge?page_id=webmajd.webmajd&"  />
-</div>
+---
 
-###
+### ❤ Views and Followers  
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-</div>
+<a href="https://github.com/webmajd">
+    <img src="https://komarev.com/ghpvc/?username=webmajd" alt="Profile views" />
+</a>
+<a href="https://github.com/webmajd?tab=followers">
+    <img src="https://img.shields.io/github/followers/webmajd?label=Followers&style=social" alt="GitHub Badge">
+</a>
 
-###
+---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=webmajd&theme=dark&hide_border=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=webmajd&theme=default&hide_border=false">
-    <img src="https://streak-stats.demolab.com?user=webmajd&theme=default&hide_border=false" height="220" alt="Streak Graph" />
-  </picture>
-</p>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👨‍💻  About Me</h3>
-
-###
-
-<p align="left">
-  I'm Mohsen Mozafari Majd from Iran 🇮🇷<br><br>
-  - 🔭 I’m working as a freelance WordPress developer, SEO strategist, and founder of smart digital projects<br>
-  - ⚙️ I’m currently building <strong>AI-powered automation tools</strong> for content strategy, SEO, and online businesses<br>
-  - 📚 I'm currently learning <strong>AI integration in web platforms</strong>, and scaling automated marketing systems<br>
-  - ⚡ In my free time, I explore new tech trends, mentor junior developers, and brainstorm startup ideas with potential impact
-</p>
-
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+### 🛠 Language and Tools  
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -77,18 +47,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+### 🔥 My Stats :
 
-###
+<div align="center"> 
 
-<br clear="both">
+  <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webmajd/webmajd/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/webmajd/webmajd/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/webmajd/webmajd/output/pacman-contribution-graph.svg">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webmajd/webmajd/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/webmajd/webmajd/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/webmajd/webmajd/output/pacman-contribution-graph.svg">
+  </picture>
 
-###
+</div>

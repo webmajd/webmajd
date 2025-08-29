@@ -1,7 +1,7 @@
 Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">  My name is Mohsen Mozafari Majd
 ==============================
 
-* 🌍  I'm based in Iran , Qom
+* 🌍  I'm based in Iran
 * 🖥️  I'm a freelance **WordPress developer**, **SEO strategist**, and founder of smart digital projects  
 * ⚙️  Currently building **AI-powered automation tools** for content strategy, SEO, and online businesses  
 * 📚  Learning more about **AI integration in web platforms** and automated marketing systems  
